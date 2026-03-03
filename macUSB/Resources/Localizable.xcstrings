@@ -18,6 +18,12 @@
             "value" : "• A USB drive with a minimum capacity of 16 GB is required to create the installer"
           }
         },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• يلزم توفر محرك أقراص USB بسعة 16 جيجابايت على الأقل لإنشاء أداة التثبيت"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92,6 +98,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• Allowed file formats are .dmg, .iso, .cdr, and .app"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• تنسيقات الملفات المسموح بها هي .dmg و .iso و .cdr و .app"
           }
         },
         "es" : {
@@ -170,6 +182,12 @@
             "value" : "• The USB drive will be formatted appropriately"
           }
         },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• ستتم تهيئة محرك أقراص USB بشكل مناسب"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -244,6 +262,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• The USB drive will be formatted"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ستتم تهيئة محرك أقراص USB"
           }
         },
         "es" : {
@@ -322,6 +346,12 @@
             "value" : "• The installation image will be restored"
           }
         },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• ستتم استعادة صورة التثبيت"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -396,6 +426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• The system image will be restored"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• ستتم استعادة صورة النظام"
           }
         },
         "es" : {
@@ -474,6 +510,12 @@
             "value" : "• The system image will be copied and verified"
           }
         },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• سيتم نسخ صورة النظام والتحقق منها"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -548,6 +590,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• Installation files will be copied"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• سيتم نسخ ملفات التثبيت"
           }
         },
         "es" : {
@@ -626,6 +674,12 @@
             "value" : "• System files will be prepared"
           }
         },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• سيتم تجهيز ملفات النظام"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -700,6 +754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• Temporary files will be automatically deleted"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• سيتم حذف الملفات المؤقتة تلقائياً"
           }
         },
         "es" : {
@@ -778,6 +838,12 @@
             "value" : "• Connect the USB drive to the target Mac computer"
           }
         },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• قم بتوصيل محرك أقراص USB بجهاز كمبيوتر Mac المستهدف"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -854,6 +920,12 @@
             "value" : "• The installer structure will be finalized"
           }
         },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• سيتم إتمام بنية برنامج التثبيت"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -928,6 +1000,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• Start the computer while holding the Option (⌥) key"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• ابدأ تشغيل الكمبيوتر مع الاستمرار في الضغط على مفتاح Option (⌥)"
           }
         },
         "es" : {
